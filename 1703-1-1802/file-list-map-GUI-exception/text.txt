@@ -1,0 +1,9 @@
+name1;bill gates;80
+name2;bill gates;90
+name3;bill gates;70
+name4;bill gates1;30
+name5;bill gates1;66
+name6;bill gates2;10
+name7;bill gates3;99
+name8;bill gates;-1
+name9;bill gates
